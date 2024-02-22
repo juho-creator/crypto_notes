@@ -15,13 +15,15 @@ Summary of cryptocurrency and underlying technology
 - Uses proof-of-work, but energy-intensive.
 - Deflationary due to halving every 4 years.
 - Strong security, developed in C++.
+</br>
 
 ## Ethereum
 - Created by Vitalik Buterin in 2015.
 - Second largest market capital.
 - Uses proof-of-stake, more energy-efficient.
 - Security weaker than Bitcoin, developed in Solidity.
-- Underlying technology used in DeFi platforms and other cryptocurrencies.
+- Underlying technology used in DeFi platforms and other cryptocurrencies. (Ex: TetherUSDT)
+</br>
 
 ## Reference
 - [What's Bitcoin?](https://www.investopedia.com/terms/b/bitcoin.asp)
